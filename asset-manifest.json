@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/draw-gmap-webpage/static/css/main.04179b6f.css",
-    "main.js": "/draw-gmap-webpage/static/js/main.20ec8db6.js",
+    "main.css": "/draw-gmap-webpage/static/css/main.a787edf5.css",
+    "main.js": "/draw-gmap-webpage/static/js/main.21b06d5a.js",
     "static/js/787.47593a0f.chunk.js": "/draw-gmap-webpage/static/js/787.47593a0f.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/draw-gmap-webpage/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/draw-gmap-webpage/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/draw-gmap-webpage/index.html",
-    "main.04179b6f.css.map": "/draw-gmap-webpage/static/css/main.04179b6f.css.map",
-    "main.20ec8db6.js.map": "/draw-gmap-webpage/static/js/main.20ec8db6.js.map",
+    "main.a787edf5.css.map": "/draw-gmap-webpage/static/css/main.a787edf5.css.map",
+    "main.21b06d5a.js.map": "/draw-gmap-webpage/static/js/main.21b06d5a.js.map",
     "787.47593a0f.chunk.js.map": "/draw-gmap-webpage/static/js/787.47593a0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04179b6f.css",
-    "static/js/main.20ec8db6.js"
+    "static/css/main.a787edf5.css",
+    "static/js/main.21b06d5a.js"
   ]
 }
